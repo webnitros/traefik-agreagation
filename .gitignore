@@ -1,5 +1,4 @@
-.ide
+.idea
 .env
-index.php
 vendor
 composer.lock
